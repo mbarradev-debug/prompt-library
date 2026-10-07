@@ -13,6 +13,7 @@ Placeholders in square brackets, like `[PROJECT_NAME]`, are meant to be replaced
 | [add-language-browser-detection](en/add-language-browser-detection.md) · [es](es/add-language-browser-detection.md) | Adding a second language chosen from the browser, with a switcher and hreflang SEO | Claude Code |
 | [choose-skill-for-task](en/choose-skill-for-task.md) · [es](es/choose-skill-for-task.md) | Deciding which installed skill fits a task, without touching code | Claude Code |
 | [audit-to-linear-issues](en/audit-to-linear-issues.md) · [es](es/audit-to-linear-issues.md) | Auditing with skills and tracking the findings in a few grouped Linear issues | Claude Code + Linear |
+| [refine-story-draft-for-ink](en/refine-story-draft-for-ink.md) · [es](es/refine-story-draft-for-ink.md) | Polishing the draft of one period of a narrative game's story into scenes and dialogue ready for Ink | Claude (writing) |
 
 ## File format
 
